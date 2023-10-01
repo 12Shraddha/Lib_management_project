@@ -1,0 +1,57 @@
+{
+    "book_details": [
+        {
+            "Title": "Gora",
+            "Book_ID": "001",
+            "Author": "Rabinnath tagore",
+            "Publish_date": 1910,
+            "Quantity": 4
+        },
+        {
+            "Title": "Malgudi Days",
+            "Book_ID": "002",
+            "Author": "R.K. Narayan",
+            "Publish_date": 1942,
+            "Quantity": 2
+        },
+        {
+            "Title": "Untouchable",
+            "Book_ID": "003",
+            "Author": "Mulk Raj Anand",
+            "Publish_date": 1935,
+            "Quantity": 0
+        }
+    ],
+    "student_details": [
+        {
+            "name": "Shraddha",
+            "ADDRESS": "Bangalore",
+            "total_issued_book": {
+                "Gora": "01/08/2023 22:34:27",
+                "Untouchable": "07/09/2023 09:34:27"
+            }
+        },
+        {
+            "name": "Sakshi",
+            "ADDRESS": "Ranchi",
+            "total_issued_book": {
+                "Malgudi Days": "12/09/2023 12:00:00"
+            }
+        },
+        {
+            "name": "ss",
+            "address": "dd",
+            "total_issued_book": {}
+        }
+    ],
+    "staff_details": [
+        {
+            "name": "Suresh",
+            "address": "Whitefield, blr"
+        },
+        {
+            "name": "Mukesh",
+            "address": "JP nagar, blr"
+        }
+    ]
+}
